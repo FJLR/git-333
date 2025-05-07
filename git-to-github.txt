@@ -8,8 +8,21 @@
 
 
 <h2>240902, 9.40pm - Here is a text from nano and then l will push it to Github</h2>
+
 <p>240902, 10.00pm, l am going to push this file to GitHub</p>
 <p>Here is another text, l am going to push this file into GIT and l did editing this file usinng "nano"
 cmd - 250505</p>
+
+
+<h3>240903, 9.52pm, my name is Mika, l. am a golden cute golden doogle</h3>
+
+<h3>250505 - here is a new h3 tag, using nano cmd locally, obviously... :) 9.49pm</h3>
+
+
+
+
+
+
+
 </body>
 </html>
